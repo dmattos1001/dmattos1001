@@ -2,5 +2,5 @@
 
 
 - 🔭 Estou estudando front-end e back-end
-- 🤞 Pretendo trabalhar na área de front-end
+- 🤞 Pretendo me estabelecer na área
 
